@@ -1,0 +1,188 @@
+
+.header #satyamev,
+.header #G2,
+.header #digital-india {
+  display: none;
+}
+
+#png2 {
+  margin-left: 241px;
+}
+.carousel-indicators [data-mdb-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 30px;
+  height: 3px;
+  padding: 0;
+  margin-top: -97px;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0;
+  border-top: 10px solid rgba(0,0,0,0);
+  border-bottom: 10px solid rgba(0,0,0,0);
+  opacity: .5;
+  transition: opacity .6s ease;
+}
+.image-container {
+  background-color: rgb(167, 196, 255);
+  height: 130px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-item {
+  flex: 1;
+  margin: 0px 44px 0px 100px;
+}
+
+.image-item h1 {
+  text-align: center;
+  font-size: 55px;
+  padding-top: 10px;
+  color: rgb(0, 92, 191);
+}
+
+.image-item img {
+  width: 193px;
+  height: auto;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+  margin-left: 200px;
+}
+.bg-dark {
+  background-color: #16192c !important;
+  height: 50px;
+}
+.d-flex {
+  display: flex !important;
+  margin-right: 150px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #55acee;
+  border-color: #55acee;
+}
+
+.bg-body-tertiary {
+  --mdb-bg-opacity: 1;
+  background-color: black !important;
+}
+
+.login {
+  margin: 49px -0px 0px 0px;
+}
+
+.d-flex input-group w-auto {
+  margin-right: 10px;
+}
+
+.navbar-nav {
+  margin-left: 90px;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+.input-group {
+  position: relative;
+  display: flex;
+  margin-left: 50px;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+
+.about {
+  margin: 50px 100px 10px 100px;
+
+}
+
+.about img {
+  height: 100px;
+  width: 100px;
+}
+
+.about p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.about-outer {
+  background-color: #e1ffe2;
+
+  margin-top: 0px;
+  padding-top: 1px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+}
+
+.slick-slider {
+  background-color:#e1ffe2;
+  position: relative;
+  display: block;
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.slick-slide {
+  background-color:  #e1ffe2;
+  /* Background color */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* Shadow effect */
+}
+
+.slick-slide .inner {
+  margin: 0 15px;
+  width: 250px;
+  /* Adjust the width of the images */
+  height: 150px;
+  /* Adjust the height of the images */
+  overflow: hidden;
+}
+
+.slick-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+
+.slick-slide:hover img {
+  transform: scale(1.2);
+}
+
+.d-flex {
+  background-color: black;
+  margin-right: 0px;
+  display: flex !important;
+}
+
+
